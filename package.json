@@ -1,6 +1,6 @@
 {
   "name": "sequential-search",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": " A simple search with O(n) complexity. Good for small data amount.",
   "homepage": "https://github.com/nkpgardose",
   "author": {
