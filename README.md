@@ -16,7 +16,7 @@ $ npm install --save sequential-search
 var sequential = require('sequential-search');
 
 sequential([2, 4, 3, 6, 7, 8], 3); // Return 2
-sequential([1, 2], 2); // Return 2
+sequential([1, 2], 2); // Return 1
 sequential([1, 45, 23], 154); // Return -1
 ```
 
