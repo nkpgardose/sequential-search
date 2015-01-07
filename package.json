@@ -1,0 +1,37 @@
+{
+  "name": "sequential-search",
+  "version": "0.0.0",
+  "description": " A simple search with O(n) complexity. Good for small data amount.",
+  "homepage": "https://github.com/nkpgardose",
+  "author": {
+    "name": "Neil Kim Gardose",
+    "email": "nkpgardose@gmail.com",
+    "url": "https://github.com/nkpgardose"
+  },
+  "repository": "nkpgardose/sequential-search",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "sequential-search",
+    "sequential-search",
+    "sequentialSearch",
+    "sequential",
+    "search"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-nodeunit": "^0.4.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^1.0.0",
+    "time-grunt": "^1.0.0",
+    "grunt-mocha-cli": "^1.11.0",
+    "jshint-stylish": "^1.0.0"
+  },
+  "scripts": {
+    "test": "grunt"
+  }
+}
